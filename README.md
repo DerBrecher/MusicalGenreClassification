@@ -5,7 +5,7 @@ Three Musical genre classifiers were implemented.
 * [GXBoost](https://xgboost.readthedocs.io/en/latest/) with nearly all features from [essentia](https://essentia.upf.edu/index.html) as the input (best performance)
 
 # Dataset
-The provided dataset consisted out of four genres with roughly 11 songs per genre. Part of the task was it to split the songs into 30 second clips with resulted in roughly 10 clips per song.
+The provided dataset consisted out of four genres (Dark Forest, Full On, Goa and Hi Tech) with roughly 11 songs per genre. Part of the task was it to split the songs into 30 second clips with resulted in roughly 10 clips per song.
 
 # Results
 Due to the limited dataset provided the results may not be indicative of the perfermance on a larger / more diverse dataset. If not otherweise noted the data was randomly shuffled and split 75:25 between training and testing.
