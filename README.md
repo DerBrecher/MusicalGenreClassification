@@ -6,5 +6,13 @@ Three Musical genre classifiers were implemented.
 
 # Results
 
-![alt text](https://github.com/DerBrecher/MusicalGenreClassification/blob/master/images/CM_MFCC.JPG?raw=true)
-Above the Confusion Matrix of the CNN on the MFCCs. 
+![alt text](https://github.com/DerBrecher/MusicalGenreClassification/blob/master/images/CM_MFCC.JPG?raw=true)\
+Confusion Matrix of the CNN on the MFCCs. 
+\
+\
+![alt text](https://github.com/DerBrecher/MusicalGenreClassification/blob/master/images/CM_Mel.JPG?raw=true)\
+Confusion Matrix of the CNN on the Mel spectrogram. 
+\
+\
+![alt text](https://github.com/DerBrecher/MusicalGenreClassification/blob/master/images/CM_XGBoost.JPG?raw=true)\
+Confusion Matrix of the XGBoost on the essentia features.
